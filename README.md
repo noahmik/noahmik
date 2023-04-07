@@ -28,7 +28,7 @@
 
 <div align="center">
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goyeahnah)](https://solved.ac/goyeahnah/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goyeanah)](https://solved.ac/goyeanah/)
 
 </div>
   
